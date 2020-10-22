@@ -1,0 +1,40 @@
+body {
+    background: #780b0b;
+    font-family: arial;
+    }
+    
+    h1, h2 {
+      color: white;
+    }
+    
+    a {
+     color: #ff00e3;
+     
+    }
+    
+    p {
+      background: #ff9191;
+      color: white;
+      padding: 14px 14px;
+    }
+    
+    
+    .col {
+      color: white;
+      background: #c70825;
+      padding: 25px;
+      margin: 9px;
+      float: left;
+    }
+    
+    .button {
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
